@@ -1,0 +1,6 @@
+/build/
+/artifacts/
+*.hprof
+hs_err_pid*.log
+.idea/
+*.iml
